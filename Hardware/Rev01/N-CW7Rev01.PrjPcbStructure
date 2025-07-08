@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=N-CW7_Main.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=N-CW7_Main.SchDoc|Designator=U_N-CW7_PWR_TWB|SchDesignator=U_N-CW7_PWR_TWB|FileName=N-CW7_PWR_TWB.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=N-CW7_PWR_TWB.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=N-CW7_Main.SchDoc|Designator=U_N-CW7_UserInterface|SchDesignator=U_N-CW7_UserInterface|FileName=N-CW7_UserInterface.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=N-CW7_UserInterface.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
